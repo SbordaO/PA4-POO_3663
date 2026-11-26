@@ -70,4 +70,4 @@ src/main/webapp/
 
 ## Video de exposición
 
-Pendiente de publicación en YouTube.
+https://youtu.be/AgoNF5m9QFI
